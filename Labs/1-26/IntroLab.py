@@ -29,7 +29,7 @@ def basic_prompt_test(prompt: str, expected: str) -> bool:
             options={"temperature": TEMP},
         )
         output_text = response.message.content.strip()
-        if output_text.strip() == EXPECTED_OUTPUT.strip():
+        if output_text.strip() == EXPECTED_OUTPUT.strip() or output_text.strip().__contains__(EXPECTED_OUTPUT):
             print("     Expected output SUCCESS!")
             return True
         else:

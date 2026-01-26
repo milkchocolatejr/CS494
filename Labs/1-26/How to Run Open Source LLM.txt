@@ -29,7 +29,8 @@
     You can run your model in the terminal by using:
         ollama run <modelName>:<#params>
 
-    You can check the web traffic of the API by using
+    You can run/monitor the  web traffic of the API by using:
         ollama serve
+    NOTE: This command needs to be ran before running any code-based solutions.
 
 ## Prompting Syntax: Explained
