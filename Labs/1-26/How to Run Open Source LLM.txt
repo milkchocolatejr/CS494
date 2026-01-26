@@ -1,0 +1,35 @@
+# How to run an open source model on your local machine!
+
+## Ollama installation
+    MacOS
+        brew install --cask ollama
+        ollama serve
+
+    Linux:
+        curl -fsSL https://ollama.com/install.sh | sh
+
+    Windows (or all OS)
+        https://ollama.com/download
+
+    Installation can be verified with:
+        ollama -v
+
+## Downloading Models
+
+    Models can be downloaded by using the 'pull' command.
+        ollama pull <modelName>:<#params>
+
+    You can find a list of the ollama models here: https://ollama.com/library.
+    The more params, the more RAM/Memory you will need to run download and run the model.
+
+## Running models
+    Before you run your model, you can verify that it has been installed by running this command:
+        ollama list
+
+    You can run your model in the terminal by using:
+        ollama run <modelName>:<#params>
+
+    You can check the web traffic of the API by using
+        ollama serve
+
+## Prompting Syntax: Explained
