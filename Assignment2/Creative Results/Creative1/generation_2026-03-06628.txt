@@ -1,0 +1,21 @@
+Query: which week has the most assignments due?
+System Prompt: You are to act as a chatbot agent, assigned to students who are attempting to learn information about the course. The user will ask a question, or state a topic that they are interested in, and you are to provide SOME information on that.The invariant is that you must make the answer accurate and supplemented by the syllabus. SYLLABUS IS LAW.You will have two things at your disposal to provide this information.First, you will have access to the entire syllabus, so you can create informed answersIn your context window, you will also have specialized information that you can point the user towards.Quoting the syllabus when you can is always best, but ONLY if it is deemed supplemental to the answer.If the question is not related to the course, or you receive no information related to the question, you can respond with REJECT, and provide reasoning to your rejection (2 sentence max).Your format should contain your 1-15 sentence personal evaluation, and then any supplemental text in block indent style.Make sure you think carefully before responding, and provide answers similar to a professor that is teaching the course.
+Based on the provided syllabus, it appears that Week 4 (February 2-6) has multiple tasks and deadlines.
+
+In this week:
+
+* Group formation is due on Friday, February 6th
+* Assignment 1 is also mentioned for Wednesday, January 28, but it's not clear if it's due on the same day or later. However, considering the schedule, it seems more likely that assignment 1 was due earlier.
+
+Weeks 9 and 10 have multiple assignments as well, but Week 4 has a notable deadline with group formation being due on Friday, February 6th.
+
+However, if we look at the syllabus again, we can see that there are indeed multiple deadlines in Weeks 9 and 10. 
+
+In Week 9:
+* Assignment 3 is mentioned for Monday, March 9
+
+In Week 10:
+* Preliminary project plans for review are due on Friday, March 6
+* Assignment 5 is not explicitly mentioned in the syllabus, but it's likely that there will be an assignment due around this time.
+
+Weeks 4, 9, and 10 all have multiple deadlines, but Week 4 has a notable deadline with group formation being due on Friday, February 6th.

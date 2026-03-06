@@ -1,0 +1,586 @@
+﻿COLLEGE OF ENGINEERING, UIC
+CS 494: Agentic AI (CRN: 42287, 42288)
+3 undergraduate credit hours, 4 graduate credit hours
+Spring 2026
+  
+
+<I.> Instructor & Course Details
+
+
+Instructor: Prof. Zhaochen Gu
+Email address: zcgu@uic.edu
+Drop-In Office Hours (in-person): Thursday 11:00 AM – 12:30PM 
+Drop-In Hours location: CDRLC 4425
+
+
+TA:  Liancheng Fang
+Email address: lfang87@uic.edu
+Drop-In Office Hours (in-person or virtual): Monday 2:00pm - 5:00pm 
+Drop-In Hours location: CDRLC 2404 (“The 404” room)
+
+
+Canvas Course Site https://canvas.uic.edu/courses/30651
+Piazza Course Site https://piazza.com/uic/spring2026/cs494 
+
+
+Students are expected to log into the course site regularly to learn about any developments related to the course, upload assignments, and communicate with classmates.  For all technical questions about Blackboard, email the Learning Technology Solutions team at LTS@uic.edu 
+
+
+This term, we will be using Piazza for class discussion. The system is designed to help you get support quickly and efficiently from classmates, the TA, and instructors. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+
+
+Course Modality and Schedule 
+This course is taught ON CAMPUS. 
+* Time: Monday & Wednesday 12:30pm – 1:45pm
+* Location: CDRLC 1406 
+
+
+  
+
+<II.> Course Information
+
+
+Catalog Course Description and Prerequisite
+
+
+Design and implementation of intelligent agentic systems that integrate multiple AI tools, covering reasoning, planning, memory management, tool integration, communication, cooperation, conflict resolution, and optimization in multi-agent systems. Course information: 3 undergraduate hours; 4 graduate hours. Extensive computer use required. Python will be used for some of the homework assignments. 
+Prerequisites: Grade of C or better in CS 251; and IE 342, STAT 381, or ECE 341. Highly Recommended: CS 412, CS 418, CS 421, or MATH 310
+
+
+Course materials and assignments can be complex and challenging, but they are crucial to your intellectual and personal growth and development. There are times you may need extra help. Students who attend class consistently, complete all assignments, thoughtfully engage with feedback on work, develop good study strategies, visit the tutoring center, and contact faculty when struggling can develop a thorough understanding of the course material and ultimately succeed in the course!
+
+
+Course Goals and Learning Outcomes
+
+
+1. Students will be able to design and implement autonomous agentic AI systems that integrate reasoning, planning, memory management, tool use, and reflection.
+2. Students will be able to develop multi-agent systems with effective communication, cooperation, and conflict resolution strategies. 
+3. Students will be able to apply dynamic decision-making and optimization techniques to autonomous agent systems in goal-driven workflows. 
+4. Students will be able to evaluate the monitor agent performance using metrics for reliability, adaptability, and coordination. 
+5. Students will be able to assess AI risks and analyze potential threats and attack types.
+6. Students will be able to work effectively in teams, demonstrating collaborative problem-solving and project management skills.
+
+
+CS 494 is an elective course in the program
+
+
+Brief list of topics to be covered.
+* Agentic Foundations: Architecture, orchestration, tool, and reasoning frameworks.
+* Planning and Memory management
+* Reinforcement Learning (RL) for agent optimization
+* Multi-agent systems
+* Security & ethics
+* Evaluation and monitoring
+
+
+Required and Recommended Course Materials 
+
+
+Textbooks
+* Antonio Gulli, Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems. Springer, 2025. 
+* M. Albada, Building Applications with AI Agents: Designing and Implementing Multiagent Systems. O'Reill, 2025. 
+* In addition to the textbooks, extra reading materials will be provided as we cover topics. The additional recommended readings, including selected papers, technical documentation, and other relevant resources to reflect the latest advancements in the field.
+
+
+Required Technology
+Canvas is the central hub for access to all course-related materials, including the course schedule, gradebook, announcements, lecture slides, lecture recordings, and supporting materials.
+
+
+Piazza is a forum for students to discuss course concepts, ask questions, and provide assistance. Piazza allows students to get help from teaching staff and classmates efficiently. This term we will be using Piazza for class discussion. Before posting, please search Piazza as the answer to your question may already be online. Please avoid posting your code related to graded work in PUBLIC threads. Signup link: https://piazza.com/uic/spring2026/cs494 
+
+
+iClicker is a live polling tool that helps make class interactive. It encourages active learning, collaboration, and self-reflection by letting students respond to questions. Students can download the iClicker mobile or web app to join live sessions easily. Download: https://learning.uic.edu/resources/polling-and-surveys/iclicker/
+* Join code: https://join.iclicker.com/QCHU 
+
+
+Gradescope is used for assignment submission and feedback; Link: https://www.gradescope.com/courses/1221825 
+
+
+Respect for Copyright
+Please protect the integrity of all course materials and content. By enrolling in this course, you
+agree to honor this request. Be mindful of the hard work and time that instructors and TAs put
+into creating course materials such as exam and quiz questions, worksheets, lecture videos, and
+reading materials. Please do not upload course materials not created by you onto third-party
+websites or share content with anyone who is not enrolled in our course. I am grateful for your
+cooperation in honoring this important request.
+
+
+  
+
+<III.> COURSE POLICIES & CLASSROOM EXPECTATIONS
+Classroom Norms
+Our class (in person) will follow the CS Code of Conduct. If you are not adhering to
+our course norms, a case of misconduct will be submitted to the Dean of Students and to the
+Director of Undergraduate Studies in the Department of Computer Science. If you are not adhering to our course norms, you will not get full credit for your work in this class. For
+extreme cases of violating the course norms, credit for the course will not be given.
+Grading Policy and Point Breakdown
+
+
+Weight
+	Course Component
+	5%
+	Lecture Participation (iClicker/Worksheets)
+	10%
+	Quizzes
+	25%
+	Assignments and Labs
+	15%
+	Midterm 1
+	15%
+	Midterm 2
+	30%
+	Group Project
+	
+
+Grading Scale: The course uses different grading scales for undergraduate and graduate students, as outlined in the table below: 
+
+
+Grade
+	Undergraduate
+	Graduate
+	A
+	88% and above
+	90% and above
+	B
+	78% to 87%
+	80% to 90%
+	C
+	68% to 77%
+	70% to 80%
+	D
+	58% to 67%
+	60% to 70%
+	F
+	Below 58%
+	Below 60%
+	Policy for Missed or Late Work 
+
+
+* Participation: Participation in this course is fundamental to engaged learning, including but not limited to responding to questions using iClickers, engaging with worksheets, and collaborating with classmates in precept. You are expected to attend each scheduled lecture The three lowest attendance scores will be dropped; For any emergency absence, students are required to provide documented proof for approval.
+
+
+* Quizzes: Quizzes will be conducted during classes to ensure that you are keeping up with the course material including but not limited to lecture, reading, assignment reflections. etc. One lowest quiz will be dropped at the end of semester. 
+
+
+* Assignments: Take-home assignments (written or labs) are due at 11:59PM on the posted due date, and students should submit all required materials by the deadline. Students have 6 late days to use throughout the semester. For each project, students may submit a late-day request before the original deadline to extend their deadline by a chosen number of days (a form will be provided by the instructors). Late-day requests submitted after the deadline cannot be accommodated. Submissions using more late days than were requested will not be accepted. One lowest-scoring assignment will be dropped. Application form: https://forms.gle/ogpCvjHfzKHNMdFFA 
+You may use late days across assignments however you wish: for example, you may do 1 per assignment; 2 for three of the projects; 2 for one project, 3 for another, and 1 for another; all 6 on one project; etc. But you must use late days in 24-hour increments – it is not possible to use only half of a day, for example. 
+* Group Project: In this semester, you will have one final group project with multiple milestones with your group members. Please check the schedule for due dates, no late submissions are accepted. 
+* Exams: two midterms will be administered during class sessions. Makeup exams cannot be permitted unless there are severe circumstances (death, severe illness, etc.) and documented proof is required.
+   * Midterm 1: Wednesday Feb 18
+   * Midterm 2: Wednesday April 1
+Attendance / Participation Policy 
+We strongly recommend you attend the lectures in person. We will have random iClicker
+questions or worksheets during the lecture. A student receives the class participation point for that day if they answer at least 75% of the iClicker questions, in the lecture section for which they are enrolled. We will drop the scores from the lowest 3 days, so students can receive a 100% participation score even if they need to miss 3 days. 
+
+
+Please email me in advance if you face an unexpected situation that may impede your attendance, participation in required class and exam sessions, or timely completion of assignments.
+
+
+Collaboration Policy
+1. Assignments: Discussion of homework assignments and solutions with other students is
+permitted. However, each student must submit his or her own work or write-up for the
+homework assignments and fully understand what he or she submits. Each student should be prepared to explain his or her homework assignment submissions to the instructor and teaching assistant if his or her “full understanding” is in doubt.
+
+
+2. Group project: all members of each group should make nearly the same amount of contribution to each project. All members should be responsible for the whole submission of the team, not only his/her own contributed part. You are supposed to understand the work of your teammates inside out and be able to answer questions when asked. If one member is plagiarized, then all members of the team will receive the same penalty. You can also use “Search for Teammates!” on Piazza. 
+
+
+3. Exams: All work on the midterms must be individually performed.
+
+
+
+
+Academic Integrity 
+As a student and member of the UIC community, you are expected to adhere to the Community Standards of academic integrity, accountability, and respect. Please review the UIC Student Disciplinary Policy for additional information.
+
+
+The Computer Science Department does not tolerate cheating. The MINIMUM penalty for any student found cheating will be to receive a 0 on that assignment or exam, and to record the event with the Dean of Students. If a student has had issues cheating in other courses, the penalties could be more severe, including expulsion from the University. A second violation of the academic integrity policy in this course will result in a failing grade for the course. Work you submit must be your own, so cheating includes all the following, though this is not a complete list.
+* Copying or any other form of getting or giving assistance from/to another student during any quiz or exam. 
+* Plagiarism – turning in code that is copied from some other source. 
+* Obtaining solutions to homework by searching the Internet, using AI to produce solutions, purchasing solutions, obtaining copies of solutions manuals for instructors, and/or obtaining copies of previous year's homework solutions. 
+* Submitting iClicker answers when not in class, giving your iClicker to another student to submit answers for you, or submitting answers for another student.
+* …
+
+
+Generative AI Usage Policy
+Generative AI tools - such as ChatGPT, Gemini, Claude, Alexa, and Siri) and AI code assistants (e.g., Copilot, Cursor, and JetBrains Assistant) - can generate text, images, and media in response to user prompts. While these tools can support learning, their use in this course is governed by the following guidelines to ensure academic integrity and responsible engagement.
+
+
+Please note that Generative AI may generate outputs that are plausible sounding but factually
+incorrect, fabricated, or nonsensical. This is called hallucination and this happens because AI
+does not have built-in fact-checking mechanisms or access to real-time databases unless explicitly connected. As a result, they may:
+* Infer relationships that are not real.
+* Invent citations, names, or data when a confident answer is requested.
+* Misrepresent knowledge by blending true and false information.
+* Infer relationships that are not real.
+
+
+General Guidelines
+* Use AI only as permitted below.
+* Document and attribute all AI contributions to your coursework.
+* Take full responsibility for verifying the accuracy of AI-generated content, including facts and sources.
+Permitted Uses 
+You may use generative AI tools for the following purposes:
+* Practicing and testing your understanding of course topics
+* Creating study aids (e.g., flashcards) for quizzes or exams
+
+
+Assignments and Case Studies
+* AI may be used to double-check your solutions before submission
+* AI may not be used to solve the questions for you or write a report from scratch
+* You may be asked to orally explain your solution to ensure you submitted your own work 
+* During the exam, no use of AI is permitted.
+When using generative AI:
+* Keep a journal of your prompts, AI responses, and how you used them.
+* Alternatively, provide a link to your AI chat history, if available.
+* Be prepared to submit this documentation upon request.
+Citation and Attribution
+* Cite AI tools according to APA style guide, including the text of your prompt.
+* AI-generated content is not a valid source for factual claims. Always locate and cite the original source of any information or ideas. Review the University of Illinois System’s Generative AI Guidance for Students
+
+
+Academic Integrity for AI usage
+Failure to follow these guidelines constitutes a violation of academic integrity and will be addressed according to the UIC Student Code (https://dos.uic.edu/communitystandards/). Misuse includes, but is not limited to:
+* Submitting AI-generated work as your own without disclosure
+* Using AI to fabricate sources 
+* Relying on AI to complete assignments in ways that bypass learning objectives
+
+
+Data Privacy Notice 
+Be aware that generative AI platforms may store, share, or sell your data. Avoid sharing personal, private, or sensitive information. For guidance, refer to https://it.uic.edu/security/
+
+
+AI Analysis Disclaimer 
+Your assignments may be stored in anonymized online repositories and could be subject to analysis. Do not include proprietary, confidential, or personally identifiable information in your submissions to generative AI tool. 
+
+
+Regrade Procedure
+Any requests for regrades of homework, quizzes, or exams must be submitted through the
+Gradescope regrade system within one week from the day the grade is available. The request
+should include specifically what should be regraded and why.
+
+
+In addition, it is the student's responsibility to make sure that the scores recorded in the
+Blackboard gradebook are accurate. The student has one week after the assignment is returned
+to inform the teaching staff that a score has been recorded incorrectly
+
+
+Email Expectations
+Students are responsible for all information instructors send to your UIC email, posted on the
+course Piazza page and posted in the course’s Canvas account.
+
+
+
+
+  
+
+<IV.> COURSE SCHEDULE
+
+
+Weekly Schedule of Class Topics, Assignments, Assessments, Due Dates, and Deadlines
+
+
+The schedule below lists the topic for each date. In-class quizzes will be conducted during the lecture. All take-home assignments are due at 11:59 PM Central Time (U.S.) on the posted due date.
+The schedule is tentative and subject to change. The updated schedule will be posted on Canvas.
+
+
+Course schedule is subject to change
+	Note: All take-home assignments are due by 11:59 PM (Central Time / Chicago time) on the posted due date.
+	Week
+	Day
+	Date
+	Lecture topics
+	Tasks
+	Group Project
+Milestone
+	1
+	M
+	Jan 12
+	Course Overview
+	
+
+	
+
+	W
+	Jan 14
+	Agentic AI architecture
+	
+
+	
+
+	2
+	M
+	Jan 19
+	No class -- MLK day
+	
+
+	
+
+	W
+	Jan 21
+	Prompting and Reflection
+	in-class Quiz 1
+	
+
+	3
+	M
+	Jan 26
+	Building single agent with reasoning logging
+	
+
+	
+
+	W
+	Jan 28
+	Tool Use
+	Assignment 1
+	
+
+	4
+	M
+	Feb 2
+	ReAct
+	
+
+	Group Formation
+Due Friday Feb 6th 
+	W
+	Feb 4
+	Agent planning
+	in-class Quiz 2
+	5
+	M
+	Feb 9
+	Knowledge retrieval with RAG
+	
+
+	
+
+	W
+	Feb 11
+	RAG - Lab
+	
+
+	
+
+	6
+	M
+	Feb 16
+	Agent Memoryl
+	
+
+	
+
+	W
+	Feb 18
+	Midterm 1 - during class
+	Midterm 1
+	
+
+	7
+	M
+	Feb 23
+	Model Context Protocol I
+	Assignment 2
+	
+
+	W
+	Feb 25
+	Model Context Protocol II
+	
+
+	
+
+	8
+	M
+	Mar 2
+	Reinforcement Learning in agentic AI
+	
+
+	Preliminary Project Plans for Review
+Due Friday March 6
+	W
+	Mar 4
+	Agentic RL 1
+	In-class Quiz 3
+	9
+	M
+	Mar 9
+	Agentic RL 2
+	Assignment 3
+	
+
+	W
+	Mar 11
+	Resource-Aware Optimization
+	
+
+	
+
+	10
+	M
+	Mar 16
+	Multi-agent communication
+	
+
+	
+
+	W
+	Mar 18
+	Multi-agent framework
+	In-class Quiz 4
+	Spring
+Break
+	M-F
+	Mar 23-27
+	No Class - Spring Break
+	
+
+	
+
+	11
+	M
+	Mar 30
+	Strategies for agent collaboration
+	
+
+	Proposal
+Due Friday April 3
+	W
+	Apr 1
+	Midterm 2 - during class
+	Midterm 2
+	12
+	M
+	Apr 6
+	Federated agentic workflows
+	
+
+	
+
+	W
+	Apr 8
+	Validation, testing and maintainability
+	Assignment 5
+	
+
+	13
+	M
+	Apr 13
+	Guardrails and Safety in agentic system
+	
+
+	Project Check-in
+Due Friday April 17
+	W
+	Apr 15
+	Agentic AI in real-world practice, AI Ethics
+	In-class Quiz 5
+	14
+	M
+	Apr 20
+	Misinformation, and Trustworthiness
+	
+
+	
+
+	W
+	Apr 22
+	Project wrap-up
+	Assignment 6
+	
+
+	15
+	M
+	Apr 27
+	Schedule Final Project Presentation
+	
+
+	Presentation 1
+	W
+	Apr 29
+	
+
+	Presentation 2
+	Final Week
+	M-F
+	May 4-8
+	
+
+	
+
+	Peer evaluation and Report
+Due: Wednesday, May 6
+	
+
+
+
+
+
+Disclaimer
+This syllabus is intended to give the student guidance on what may be covered during the semester and will be followed as closely as possible. However, as the instructor, I reserve the right to modify, supplement, and make changes as course needs arise. I will communicate such changes in advance through in-class announcements and in writing via Blackboard Announcements.
+
+
+  
+
+<V.> ACCOMMODATIONS
+Disability Accommodation Procedures 
+UIC is committed to full inclusion and participation of people with disabilities in all aspects of university life. If you face or anticipate disability-related barriers while at UIC, please connect with the Disability Resource Center (DRC) at drc.uic.edu, via email at drc@uic.edu, or call (312) 413-2183 to create a plan for reasonable accommodations. To receive accommodations, you will need to disclose the disability to the DRC, complete an interactive registration process with the DRC, and provide me with a Letter of Accommodation (LOA). Upon receipt of an LOA, I will gladly work with you and the DRC to implement approved accommodations.
+
+Religious Accommodations
+Following campus policy, if you wish to observe religious holidays, you must notify me by the tenth day of the semester. If the religious holiday is observed on or before the tenth day of the semester, you must notify me at least five days before you will be absent. Please submit this form by email with the subject heading: “YOUR NAME: Requesting Religious Accommodation.”
+  
+
+<VI.> CLASSROOM ENVIRONMENT
+Inclusive Community
+UIC values diversity and inclusion. Regardless of age, disability, ethnicity, race, gender, gender identity, sexual orientation, socioeconomic status, geographic background, religion, political ideology, language, or culture, we expect all members of this class to contribute to a respectful, welcoming, and inclusive environment for every other member of our class. If aspects of this course result in barriers to your inclusion, engagement, accurate assessment, or achievement, please notify me as soon as possible.
+
+
+Name and Pronoun Use
+Suggested Statement: 
+If your name does not match the name on my class roster, please let me know as soon as possible. My pronouns are she/her. I welcome your pronouns if you would like to share them with me. For more information about pronouns, see this page: https://www.mypronouns.org/what-and-why. 
+
+
+Community Agreement/Classroom Conduct Policy
+:
+* Be present by turning off cell phones and removing yourself from other distractions.
+* Be respectful of the learning space and community. For example, no side conversations or unnecessary disruptions.
+* Use preferred names and gender pronouns.
+* Assume goodwill in all interactions, even in disagreement.
+* Facilitate dialogue and value the free and safe exchange of ideas.
+* Try not to make assumptions, have an open mind, seek to understand, and not judge.
+* Approach discussion, challenges, and different perspectives as an opportunity to “think out loud,” learn something new, and understand the concepts or experiences that guide other people’s thinking.
+* Debate the concepts, not the person.
+* Be gracious and open to change when your ideas, arguments, or positions do not work or are proven wrong.
+* Be willing to work together and share helpful study strategies.
+* Be mindful of one another’s privacy, and do not invite outsiders into our classroom.
+
+
+Content Notices and Trigger Warnings
+Our classroom provides an open space for a critical and civil exchange of ideas, inclusive of a variety of perspectives and positions. Some readings and other content may expose you to ideas, subjects, or views that may challenge you, cause you discomfort, or recall past negative experiences or traumas. I intend to discuss all subjects with dignity and humanity, as well as with rigor and respect for scholarly inquiry. If you would like me to be aware of a specific topic of concern, please email or visit my Student Drop-In Hours.
+  
+
+<VII.> RESOURCES: Academic Success, Wellness, and Safety
+
+
+We all need the help and the support of our UIC community. Please visit my office hours for course consultation and other academic or research topics. For additional assistance, please contact your assigned college advisor and visit the support services available to all UIC students. 
+
+
+Academic Success
+* UIC Tutoring Resources
+* College of Engineering tutoring program
+* Equity and Inclusion in Engineering Program
+* UIC Library and UIC Library Research Guides.
+* Offices supporting the UIC Undergraduate Experience and Academic Programs. 
+* Student Guide for Information Technology
+
+
+Wellness
+* Counseling Services: You may seek free and confidential services from the Counseling Center at https://counseling.uic.edu/. 
+* Access U&I Care Program for assistance with personal hardships.
+* Campus Advocacy Network: Under Title IX, you have the right to an education free from any form of gender-based violence or discrimination. To make a report, email TitleIX@uic.edu. For more information or confidential victim services and advocacy, visit UIC’s Campus Advocacy Network at http://can.uic.edu/.
+Safety
+* UIC Safe App—PLEASE DOWNLOAD FOR YOUR SAFETY!
+* UIC Safety Tips and Resources
+* Night Ride
+* Emergency Communications: By dialing 5-5555 from a campus phone, you can summon the Police or Fire for any on-campus emergency. You may also set up the complete number, (312) 355-5555, on speed dial on your cell phone.
