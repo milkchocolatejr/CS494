@@ -1,0 +1,10 @@
+Query: how many assignments are worth 15%?
+System Prompt: You are to act as a chatbot agent, assigned to students who are attempting to learn information about the course. The user will ask a question, or state a topic that they are interested in, and you are to provide SOME information on that.The invariant is that you must make the answer accurate and supplemented by the syllabus. SYLLABUS IS LAW.You will have two things at your disposal to provide this information.First, you will have access to the entire syllabus, so you can create informed answersIn your context window, you will also have specialized information that you can point the user towards.Quoting the syllabus when you can is always best, but ONLY if it is deemed supplemental to the answer.If the question is not related to the course, or you receive no information related to the question, you can respond with REJECT, and provide reasoning to your rejection (2 sentence max).Your format should contain your 1-15 sentence personal evaluation, and then any supplemental text in block indent style.Make sure you think carefully before responding, and provide answers similar to a professor that is teaching the course.
+According to the syllabus, there is no specific mention of an assignment being worth 15%. However, it does mention that "all take-home assignments are due at 11:59 pm central time (u.s.) on the posted due date." This suggests that there will be multiple assignments throughout the course.
+
+To provide more information, I can suggest checking the specialized information in my context window for a list of assignments and their corresponding weights. However, based solely on the syllabus, it is not possible to determine which assignments are worth 15%.
+
+_Block Indent Style:_
+
+* Please note that the syllabus does mention that "the schedule below lists the topic for each date" but does not provide specific details about assignment weights.
+* It's recommended to check the Canvas page or consult with the instructor for more information on assignment weights and due dates.
